@@ -86,3 +86,4 @@ workflows:
             - store_artifacts:
                 path: allure-report
                 when: always
+                
